@@ -1,28 +1,40 @@
 # Bonjour, moi c’est Iyad 👋
 
-Je suis étudiant en **deuxième année de BUT Informatique à l’IUT de Villetaneuse**, à l’Université Sorbonne Paris Nord.
+Étudiant en **deuxième année de BUT Informatique à l’IUT de Villetaneuse**, Université Sorbonne Paris Nord.
 
-Ce qui me plaît dans le développement, c’est de partir d’un besoin concret et de construire quelque chose que l’on peut utiliser. J’ai notamment réalisé des boutiques Shopify complètes en Liquid et participé au développement de l’interface d’un projet en équipe.
+J’aime partir d’un besoin concret et construire quelque chose que l’on peut utiliser. J’ai réalisé des boutiques Shopify complètes en Liquid et participé au développement de l’interface d’un projet en équipe.
 
 ## Je recherche un stage
 
-**Un stage de 8 à 10 semaines à partir du 8 février 2027**, en développement web ou logiciel, en Île-de-France.
+**8 à 10 semaines à partir du 8 février 2027**, en développement web ou logiciel, en Île-de-France.
 
-Je souhaite participer à des projets concrets, apporter ce que je sais déjà faire et progresser grâce aux échanges avec une équipe.
+Je souhaite contribuer aux projets d’une équipe, apporter ce que je sais déjà faire et progresser grâce aux retours des développeurs.
 
-## Mes compétences
+## Projets à découvrir
 
-- **Web :** HTML, CSS, TypeScript
-- **E-commerce :** Shopify, Liquid
-- **Programmation :** Java, Python
-- **Bases de données :** SQL
+Ces cinq ateliers ont été créés avec assistance IA en octobre 2026. Ce sont de nouvelles bases de pratique à comprendre, modifier et approfondir, distinctes de mes projets universitaires et missions clients.
 
-## Quelques projets de mon parcours
+| Projet | Technologies | Fonctionnalités |
+| --- | --- | --- |
+| [StageTrack](https://github.com/Iyad93140/Iyad/tree/main/projects/stagetrack) | Python, SQLite | API HTTP de suivi de candidatures, validation et persistance |
+| [FocusBoard](https://github.com/Iyad93140/Iyad/tree/main/projects/focusboard) | HTML, CSS, JavaScript | Tableau de tâches avec filtres et sauvegarde locale |
+| [SalesReport](https://github.com/Iyad93140/Iyad/tree/main/projects/salesreport) | Python, CSV | Analyse de ventes et export JSON |
+| [Campus Library](https://github.com/Iyad93140/Iyad/tree/main/projects/campus-library) | SQL, SQLite | Gestion des emprunts, contraintes et requêtes d’analyse |
+| [Letter Lab](https://github.com/Iyad93140/games) | JavaScript | Jeu de lettres, gestion des doublons, six essais |
 
-- **FindMyWord — Java :** un jeu de lettres inspiré de Wordle, avec vérification des réponses et affichage d’indices.
-- **EXPBD — SQL :** exploitation d’une base de données de station-service pour rechercher, filtrer et analyser les informations.
-- **AcePilot — projet en équipe de trois :** participation à la conception et au développement de l’interface utilisateur d’une plateforme d’accompagnement aux entretiens en ligne.
+Chaque projet contient son code, ses instructions de lancement, ses tests et ses limites connues.
 
-## Me contacter
+## Compétences
+
+**Web :** HTML, CSS, TypeScript · **E-commerce :** Shopify, Liquid  
+**Programmation :** Java, Python · **Bases de données :** SQL
+
+## Autres projets de mon parcours
+
+- **FindMyWord — Java :** projet universitaire de jeu de lettres. Son code n’est pas encore ajouté ici.
+- **EXPBD — SQL :** projet universitaire d’exploitation d’une base de données de station-service. Son code n’est pas encore ajouté ici.
+- **AcePilot :** contribution à la conception et au développement de l’interface utilisateur, dans une équipe de trois. Son code n’est pas publié ici.
+
+## Contact
 
 [iyad.pro@outlook.fr](mailto:iyad.pro@outlook.fr)

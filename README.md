@@ -23,7 +23,13 @@ L’objectif est de réunir dans une même interface le suivi des opérations, l
 - Replay de marché pour s’entraîner sur des données historiques.
 - Simulation d’ordres dans le cadre de l’entraînement.
 
-**Statut : en cours de développement.** Ces éléments décrivent les objectifs du projet ; leur implémentation évolue. Le code et une démonstration ne sont pas publiés sur ce profil pour le moment.
+**Statut : en cours de développement.** Ces éléments décrivent les axes du projet ; leur implémentation évolue.
+
+### Un aperçu du code
+
+Un [petit module du replay est disponible en open source](https://github.com/Iyad93140/Iyad/tree/main/projects/veltrades-preview) : créneaux horaires, gestion des fuseaux et agrégation des bougies OHLC. Il provient de l’export v17 du prototype et comprend ses tests d’origine ainsi qu’un exemple exécutable sans dépendance.
+
+Cet extrait est partagé sous **licence MIT, limitée au dossier de l’aperçu**. Le code complet de Veltrades n’est pas publié.
 
 ## Projets à découvrir
 

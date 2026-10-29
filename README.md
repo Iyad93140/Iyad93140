@@ -10,6 +10,21 @@ J’aime partir d’un besoin concret et construire quelque chose que l’on peu
 
 Je souhaite contribuer aux projets d’une équipe, apporter ce que je sais déjà faire et progresser grâce aux retours des développeurs.
 
+## Projet en cours — Veltrades
+
+**Veltrades** est mon projet personnel de plateforme web dédiée au journal de trading et à l’entraînement sur les marchés.
+
+L’objectif est de réunir dans une même interface le suivi des opérations, l’analyse des performances et le travail sur des graphiques historiques.
+
+**Axes de développement :**
+
+- Journal de trading et suivi des résultats.
+- Graphiques interactifs et outils d’analyse.
+- Replay de marché pour s’entraîner sur des données historiques.
+- Simulation d’ordres dans le cadre de l’entraînement.
+
+**Statut : en cours de développement.** Ces éléments décrivent les objectifs du projet ; leur implémentation évolue. Le code et une démonstration ne sont pas publiés sur ce profil pour le moment.
+
 ## Projets à découvrir
 
 Ces cinq ateliers ont été créés avec assistance IA en octobre 2026. Ce sont de nouvelles bases de pratique à comprendre, modifier et approfondir, distinctes de mes projets universitaires et missions clients.
